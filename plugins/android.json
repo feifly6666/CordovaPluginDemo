@@ -1,0 +1,15 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "nlscan-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.nlscan.pda"
+    }
+  },
+  "dependent_plugins": {}
+}

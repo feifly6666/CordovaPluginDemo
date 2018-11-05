@@ -1,0 +1,10 @@
+{
+  "nlscan-plugin-barcodescanner": {
+    "source": {
+      "type": "local",
+      "path": "E:\\Cordova Workspace\\FUJITEC\\NlScanCordova\\node_modules\\nlscan-plugin-barcodescanner"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

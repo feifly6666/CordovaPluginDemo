@@ -1,0 +1,14 @@
+.plugin-ui-block-a {
+  height:70px;
+  line-height:70px;
+  text-align:right;
+  font-size:large
+}
+
+.plugin-ui-block-b {
+  height:70px;
+  line-height:70px;
+  text-align:left;
+}
+
+textarea.ui-input-text { min-height: 300px;  }

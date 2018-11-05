@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+        "spec": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+        "type": "directory"
+      },
+      "E:\\Cordova Workspace\\FUJITEC\\NlScanCordova"
+    ]
+  ],
+  "_from": "..\\..\\Plugin\\BarcodeScanner",
+  "_id": "nlscan-plugin-barcodescanner@0.0.1",
+  "_inCache": true,
+  "_location": "/nlscan-plugin-barcodescanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+    "spec": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:..\\..\\Plugin\\BarcodeScanner",
+  "_shasum": "ef4471f9d0a46c7cb9eae9944d6b497247a3a5f7",
+  "_shrinkwrap": null,
+  "_spec": "E:\\Cordova Workspace\\Plugin\\BarcodeScanner",
+  "_where": "E:\\Cordova Workspace\\FUJITEC\\NlScanCordova",
+  "author": {
+    "name": "alan"
+  },
+  "cordova": {
+    "id": "nlscan-plugin-barcodescanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "\n\t\tCordova plugin to interface with NLSCAN barcode scanners (on Android)\n\t",
+  "devDependencies": {},
+  "keywords": [
+    "barcode",
+    "scanner",
+    "nlscan",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "nlscan-plugin-barcodescanner",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}

@@ -1,0 +1,39 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {
+      "res/xml/config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"BarcodeScanner\"><param name=\"onload\" value=\"true\" /><param name=\"android-package\" value=\"com.nlscan.cordova.plugin.barcodescanner.BarcodeScanner\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "installed_plugins": {
+    "nlscan-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.nlscan.pda"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "id": "nlscan-plugin-barcodescanner.BarcodeScanner",
+      "file": "plugins/nlscan-plugin-barcodescanner/www/BarcodeScanner.js",
+      "pluginId": "nlscan-plugin-barcodescanner",
+      "clobbers": [
+        "nlscan.plugins.barcodescanner"
+      ]
+    }
+  ],
+  "plugin_metadata": {
+    "nlscan-plugin-barcodescanner": "0.0.1"
+  }
+}
